@@ -4,12 +4,14 @@ import './index.css'
 const TeamCard = ({team}) => {
   const {id, name, teamImageUrl} = team
   return (
-    <Link to={`/team-matches/${id}`} className="team-link">
-      <li className="team-card">
-        <img className="team-logo" src={teamImageUrl} alt={name} />
-        <p className="team-name">{name}</p>
-      </li>
-    </Link>
+    <li className="team-item">
+      <Link to={`/team-matches/${id}`} className="team-link">
+        <div className="team-card">
+          <img className="team-logo" src={teamImageUrl} alt={name} />
+          <p className="team-name">{name}</p>
+        </div>
+      </Link>
+    </li>
   )
 }
 

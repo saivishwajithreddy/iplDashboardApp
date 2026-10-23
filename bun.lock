@@ -15,7 +15,7 @@
     },
   },
   "packages": {
-    "@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+    "@babel/code-frame": ["@babel/code-frame@7.12.11", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.12.11.tgz", { "dependencies": { "@babel/highlight": "^7.10.4" } }, "sha512-Zt1yodBx1UcyiePMSkWnU4hPqhwq7hGi2nFL1LeA3EUl+q2LQx16MISgJ0+z7dnmgvP9QtIleuETGOiOH1RcIw=="],
 
     "@babel/compat-data": ["@babel/compat-data@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/compat-data/-/compat-data-7.29.7.tgz", {}, "sha512-locTkQyKvwIEgBzVrn8693ebc97F2U8ZHjbXwDXJ5Fn2TCpNwTlKcaKLkdHop5c/icOFE7qt7Q9JC5hnKNa6Gg=="],
 
@@ -743,7 +743,7 @@
 
     "browserify-zlib": ["browserify-zlib@0.2.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserify-zlib/-/browserify-zlib-0.2.0.tgz", { "dependencies": { "pako": "~1.0.5" } }, "sha512-Z942RysHXmJrhqk88FmKBVq/v5tqmSkDz7p54G/MGyjMnCFFnC79XWNbg+Vta8W6Wb2qtSZTSxIGkJrRpCFEiA=="],
 
-    "browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
+    "browserslist": ["browserslist@4.14.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.14.2.tgz", { "dependencies": { "caniuse-lite": "^1.0.30001125", "electron-to-chromium": "^1.3.564", "escalade": "^3.0.2", "node-releases": "^1.1.61" }, "bin": { "browserslist": "cli.js" } }, "sha512-HI4lPveGKUR0x2StIz+2FXfDk9SfVMrxn6PLh1JeGUwcuoDkdKZebWiyLRJ68iIPDpMI4JLVDf7S7XzslgWOhw=="],
 
     "bser": ["bser@2.1.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/bser/-/bser-2.1.2.tgz", { "dependencies": { "node-int64": "^0.4.0" } }, "sha512-V2o8YS2EhrKMO9AumnkK0ynynfFlsajpYupwq7S46H5mhcanwxDkNTw3K67wPIcKTH1ffkA4vhMOtAc7gRmPZw=="],
 
@@ -865,7 +865,7 @@
 
     "content-type": ["content-type@1.0.5", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/content-type/-/content-type-1.0.5.tgz", {}, "sha512-nTjqfcBFEipKdXCv4YDQWCfmcLZKm81ldF0pAopTvyrFGVbcR6P/VAAd5G7N+0tTr8QqiU0tFadD6FK4NtJwOA=="],
 
-    "convert-source-map": ["convert-source-map@1.7.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-1.7.0.tgz", { "dependencies": { "safe-buffer": "~5.1.1" } }, "sha512-4FJkXzKXEDB1snCFZlLP4gpC3JILicCpGbzG9f9G7tGqGCzETQ2hWPrcinA9oU4wtf2biUaEH5065UnMeR33oA=="],
+    "convert-source-map": ["convert-source-map@1.9.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-1.9.0.tgz", {}, "sha512-ASFBup0Mz1uyiIjANan1jzLQami9z1PoYSZCiiYW2FczPbenXc45FZdBZLzOT+r6+iciuEModtmCti+hjaAk0A=="],
 
     "cookie": ["cookie@0.7.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/cookie/-/cookie-0.7.2.tgz", {}, "sha512-yki5XnKuf750l50uGTllt6kKILY4nQ1eNIQatoXEByZ5dWgnKqbnqmTrBE5B4N7lrMJKQ2ytWMiTO2o0v6Ew/w=="],
 
@@ -889,7 +889,7 @@
 
     "create-hmac": ["create-hmac@1.1.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/create-hmac/-/create-hmac-1.1.7.tgz", { "dependencies": { "cipher-base": "^1.0.3", "create-hash": "^1.1.0", "inherits": "^2.0.1", "ripemd160": "^2.0.0", "safe-buffer": "^5.0.1", "sha.js": "^2.4.8" } }, "sha512-MJG9liiZ+ogc4TzUwuvbER1JRdgvUFSB5+VR/g5h82fGaIRWMWddtKBHi7/sVhfjQZ6SehlyhvQYrcYkaUIpLg=="],
 
-    "cross-spawn": ["cross-spawn@7.0.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/cross-spawn/-/cross-spawn-7.0.3.tgz", { "dependencies": { "path-key": "^3.1.0", "shebang-command": "^2.0.0", "which": "^2.0.1" } }, "sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w=="],
+    "cross-spawn": ["cross-spawn@7.0.6", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/cross-spawn/-/cross-spawn-7.0.6.tgz", { "dependencies": { "path-key": "^3.1.0", "shebang-command": "^2.0.0", "which": "^2.0.1" } }, "sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA=="],
 
     "crypto-browserify": ["crypto-browserify@3.12.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/crypto-browserify/-/crypto-browserify-3.12.1.tgz", { "dependencies": { "browserify-cipher": "^1.0.1", "browserify-sign": "^4.2.3", "create-ecdh": "^4.0.4", "create-hash": "^1.2.0", "create-hmac": "^1.1.7", "diffie-hellman": "^5.0.3", "hash-base": "~3.0.4", "inherits": "^2.0.4", "pbkdf2": "^3.1.2", "public-encrypt": "^4.0.3", "randombytes": "^2.1.0", "randomfill": "^1.0.4" } }, "sha512-r4ESw/IlusD17lgQi1O20Fa3qNnsckR126TdUuBgAu7GBYSIPvdNyONd3Zrxh0xCwA4+6w/TDArBPsMvhur+KQ=="],
 
@@ -1823,7 +1823,7 @@
 
     "node-notifier": ["node-notifier@8.0.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-notifier/-/node-notifier-8.0.2.tgz", { "dependencies": { "growly": "^1.3.0", "is-wsl": "^2.2.0", "semver": "^7.3.2", "shellwords": "^0.1.1", "uuid": "^8.3.0", "which": "^2.0.2" } }, "sha512-oJP/9NAdd9+x2Q+rfphB2RJCHjod70RcRLjosiPMMu5gjIfwVnOUGq2nbTjTUbmy0DJ/tFIVT30+Qe3nzl4TJg=="],
 
-    "node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
+    "node-releases": ["node-releases@1.1.77", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-1.1.77.tgz", {}, "sha512-rB1DUFUNAN4Gn9keO2K1efO35IDK7yKHCdCaIMvFO7yUYmmZYeDjnGKle26G4rwj+LKRQpjyUUvMkPglwGCYNQ=="],
 
     "normalize-package-data": ["normalize-package-data@2.5.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/normalize-package-data/-/normalize-package-data-2.5.0.tgz", { "dependencies": { "hosted-git-info": "^2.1.4", "resolve": "^1.10.0", "semver": "2 || 3 || 4 || 5", "validate-npm-package-license": "^3.0.1" } }, "sha512-/5CMN3T0R4XTj4DcGaexo+roZSdSFW/0AOOTROrjxzCG1wrWXEsGbRKevjlIL+ZDE4sZlJr5ED4YW0yqmkK+eA=="],
 
@@ -1945,7 +1945,7 @@
 
     "performance-now": ["performance-now@2.1.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/performance-now/-/performance-now-2.1.0.tgz", {}, "sha512-7EAHlyLHI56VEIdK57uwHdHKIaAGbnXPiw0yWbarQZOKaKpvUIgW0jWRVLiatnM+XXlSwsanIBH/hzGMJulMow=="],
 
-    "picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+    "picocolors": ["picocolors@0.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-0.2.1.tgz", {}, "sha512-cMlDqaLEqfSaW8Z7N5Jw+lyIW869EzT73/F5lhtY9cLGoVxSXznfgfXMO0Z5K0o0Q2TkTXq+0KFsdnSe3jDViA=="],
 
     "picomatch": ["picomatch@2.3.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picomatch/-/picomatch-2.3.2.tgz", {}, "sha512-V7+vQEJ06Z+c5tSye8S+nHUfI51xoXIXjHQ99cQtKUkQqqO1kO/KCJUfZXuB47h/YBlDhah2H3hdUGXn8ie0oA=="],
 
@@ -2787,6 +2787,8 @@
 
     "@babel/core/semver": ["semver@5.7.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-5.7.2.tgz", { "bin": { "semver": "bin/semver" } }, "sha512-cBznnQ9KjJqU67B52RMC65CMarK2600WFnbkcaiwWq3xy/5haFJlshgnpjovMVJ+Hff49d8GEn0b87C5pDQ10g=="],
 
+    "@babel/helper-compilation-targets/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
+
     "@babel/helper-compilation-targets/lru-cache": ["lru-cache@5.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/lru-cache/-/lru-cache-5.1.1.tgz", { "dependencies": { "yallist": "^3.0.2" } }, "sha512-KpNARQA3Iwv+jTA0utUVVbrh+Jlrr1Fv0e56GGzAFOXN7dk/FviaDW8LHmK52DlcH4WP2n6gI8vN1aesBFgo9w=="],
 
     "@babel/helper-compilation-targets/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
@@ -2799,6 +2801,8 @@
 
     "@babel/highlight/chalk": ["chalk@2.4.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/chalk/-/chalk-2.4.2.tgz", { "dependencies": { "ansi-styles": "^3.2.1", "escape-string-regexp": "^1.0.5", "supports-color": "^5.3.0" } }, "sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ=="],
 
+    "@babel/highlight/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
     "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/@babel/core": ["@babel/core@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/core/-/core-7.29.7.tgz", { "dependencies": { "@babel/code-frame": "^7.29.7", "@babel/generator": "^7.29.7", "@babel/helper-compilation-targets": "^7.29.7", "@babel/helper-module-transforms": "^7.29.7", "@babel/helpers": "^7.29.7", "@babel/parser": "^7.29.7", "@babel/template": "^7.29.7", "@babel/traverse": "^7.29.7", "@babel/types": "^7.29.7", "@jridgewell/remapping": "^2.3.5", "convert-source-map": "^2.0.0", "debug": "^4.1.0", "gensync": "^1.0.0-beta.2", "json5": "^2.2.3", "semver": "^6.3.1" } }, "sha512-RgHBCvtjbOK2gXSNBNIkNoEc9qoVEtau3hj8gEqKQuL3HZAibKarWFEI3Lfm6EYKkLalOh8eSrj9b+ch9H/VBA=="],
 
     "@babel/plugin-transform-runtime/babel-plugin-polyfill-corejs3": ["babel-plugin-polyfill-corejs3@0.13.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/babel-plugin-polyfill-corejs3/-/babel-plugin-polyfill-corejs3-0.13.0.tgz", { "dependencies": { "@babel/helper-define-polyfill-provider": "^0.6.5", "core-js-compat": "^3.43.0" }, "peerDependencies": { "@babel/core": "^7.4.0 || ^8.0.0-0 <8.0.0" } }, "sha512-U+GNwMdSFgzVmfhNm8GJUX88AadB3uo9KpJqS3FaqNIPKgySuvMb+bHPsOmmuWyIcuqZj/pzt1RUIUZns4y2+A=="],
@@ -2808,6 +2812,10 @@
     "@babel/preset-env/@babel/plugin-proposal-private-property-in-object": ["@babel/plugin-proposal-private-property-in-object@7.21.0-placeholder-for-preset-env.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/plugin-proposal-private-property-in-object/-/plugin-proposal-private-property-in-object-7.21.0-placeholder-for-preset-env.2.tgz", { "peerDependencies": { "@babel/core": "^7.0.0-0" } }, "sha512-SOSkfJDddaM7mak6cPEpswyTRnuRltl429hMraQEglW+OkovnCzsiszTmsrlY//qLFjCpQDFRvjdm2wA5pPm9w=="],
 
     "@babel/preset-env/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
+
+    "@babel/template/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
+    "@babel/traverse/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
 
     "@eslint/eslintrc/ignore": ["ignore@4.0.6", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ignore/-/ignore-4.0.6.tgz", {}, "sha512-cyFDKrqc/YdcWFniJhzI42+AzS+gNwmUzOSFcRCQYwySuBBBy/KjuxWLZ/FHEH6Moq1NizMOBWyTcv8O4OZIMg=="],
 
@@ -2843,8 +2851,6 @@
 
     "@svgr/plugin-jsx/@babel/core": ["@babel/core@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/core/-/core-7.29.7.tgz", { "dependencies": { "@babel/code-frame": "^7.29.7", "@babel/generator": "^7.29.7", "@babel/helper-compilation-targets": "^7.29.7", "@babel/helper-module-transforms": "^7.29.7", "@babel/helpers": "^7.29.7", "@babel/parser": "^7.29.7", "@babel/template": "^7.29.7", "@babel/traverse": "^7.29.7", "@babel/types": "^7.29.7", "@jridgewell/remapping": "^2.3.5", "convert-source-map": "^2.0.0", "debug": "^4.1.0", "gensync": "^1.0.0-beta.2", "json5": "^2.2.3", "semver": "^6.3.1" } }, "sha512-RgHBCvtjbOK2gXSNBNIkNoEc9qoVEtau3hj8gEqKQuL3HZAibKarWFEI3Lfm6EYKkLalOh8eSrj9b+ch9H/VBA=="],
 
-    "@svgr/webpack/@babel/core": ["@babel/core@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/core/-/core-7.29.7.tgz", { "dependencies": { "@babel/code-frame": "^7.29.7", "@babel/generator": "^7.29.7", "@babel/helper-compilation-targets": "^7.29.7", "@babel/helper-module-transforms": "^7.29.7", "@babel/helpers": "^7.29.7", "@babel/parser": "^7.29.7", "@babel/template": "^7.29.7", "@babel/traverse": "^7.29.7", "@babel/types": "^7.29.7", "@jridgewell/remapping": "^2.3.5", "convert-source-map": "^2.0.0", "debug": "^4.1.0", "gensync": "^1.0.0-beta.2", "json5": "^2.2.3", "semver": "^6.3.1" } }, "sha512-RgHBCvtjbOK2gXSNBNIkNoEc9qoVEtau3hj8gEqKQuL3HZAibKarWFEI3Lfm6EYKkLalOh8eSrj9b+ch9H/VBA=="],
-
     "@types/minimatch/minimatch": ["minimatch@3.0.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/minimatch/-/minimatch-3.0.4.tgz", { "dependencies": { "brace-expansion": "^1.1.7" } }, "sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA=="],
 
     "@types/uglify-js/source-map": ["source-map@0.6.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/source-map/-/source-map-0.6.1.tgz", {}, "sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g=="],
@@ -2872,8 +2878,6 @@
     "asn1.js/bn.js": ["bn.js@4.12.5", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/bn.js/-/bn.js-4.12.5.tgz", {}, "sha512-3aRg6/JxfffFD+OlOjOFR3Vo79l39ooBTFucxx+MT3dhCtzn3EmiUPQo+6/OZuI2jbXi3YKgmiTFBgChQMwIRQ=="],
 
     "assert/util": ["util@0.10.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/util/-/util-0.10.4.tgz", { "dependencies": { "inherits": "2.0.3" } }, "sha512-0Pm9hTQ3se5ll1XihRic3FDIku70C+iHUdT/W926rSgHV5QgXsYbKZN8MSC3tJtSkhuROzvsQjAaFENRXr+19A=="],
-
-    "autoprefixer/picocolors": ["picocolors@0.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-0.2.1.tgz", {}, "sha512-cMlDqaLEqfSaW8Z7N5Jw+lyIW869EzT73/F5lhtY9cLGoVxSXznfgfXMO0Z5K0o0Q2TkTXq+0KFsdnSe3jDViA=="],
 
     "babel-loader/loader-utils": ["loader-utils@1.4.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/loader-utils/-/loader-utils-1.4.2.tgz", { "dependencies": { "big.js": "^5.2.2", "emojis-list": "^3.0.0", "json5": "^1.0.1" } }, "sha512-I5d00Pd/jwMD2QCduo657+YM/6L3KZu++pmX9VFncxaxvHcru9jx1lBaFft+r4Mt2jK0Yhp41XlRAihzPxHNCg=="],
 
@@ -2909,6 +2913,8 @@
 
     "camel-case/tslib": ["tslib@2.8.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/tslib/-/tslib-2.8.1.tgz", {}, "sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w=="],
 
+    "caniuse-api/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
+
     "chalk/supports-color": ["supports-color@7.2.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/supports-color/-/supports-color-7.2.0.tgz", { "dependencies": { "has-flag": "^4.0.0" } }, "sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw=="],
 
     "chokidar/anymatch": ["anymatch@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/anymatch/-/anymatch-2.0.0.tgz", { "dependencies": { "micromatch": "^3.1.4", "normalize-path": "^2.1.1" } }, "sha512-5teOsQWABXHHBFP9y3skS5P3d/WfWXpv3FUpy+LorMrNYaT9pI4oLMQX7jzQ2KklNpGpWHzdCXTDT2Y3XGlZBw=="],
@@ -2940,6 +2946,8 @@
     "content-disposition/safe-buffer": ["safe-buffer@5.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/safe-buffer/-/safe-buffer-5.2.1.tgz", {}, "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="],
 
     "copy-concurrently/rimraf": ["rimraf@2.7.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/rimraf/-/rimraf-2.7.1.tgz", { "dependencies": { "glob": "^7.1.3" }, "bin": { "rimraf": "./bin.js" } }, "sha512-uWjbaKIK3T1OSVptzX7Nl6PvQ3qAGtKEtVRjRuazjfL3Bx5eI409VZSqgND+4UNnmzLVdPj9FqFJNPqBZFve4w=="],
+
+    "core-js-compat/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
 
     "create-ecdh/bn.js": ["bn.js@4.12.5", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/bn.js/-/bn.js-4.12.5.tgz", {}, "sha512-3aRg6/JxfffFD+OlOjOFR3Vo79l39ooBTFucxx+MT3dhCtzn3EmiUPQo+6/OZuI2jbXi3YKgmiTFBgChQMwIRQ=="],
 
@@ -2984,8 +2992,6 @@
     "escodegen/esprima": ["esprima@4.0.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/esprima/-/esprima-4.0.1.tgz", { "bin": { "esparse": "./bin/esparse.js", "esvalidate": "./bin/esvalidate.js" } }, "sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A=="],
 
     "escodegen/source-map": ["source-map@0.6.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/source-map/-/source-map-0.6.1.tgz", {}, "sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g=="],
-
-    "eslint/@babel/code-frame": ["@babel/code-frame@7.12.11", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.12.11.tgz", { "dependencies": { "@babel/highlight": "^7.10.4" } }, "sha512-Zt1yodBx1UcyiePMSkWnU4hPqhwq7hGi2nFL1LeA3EUl+q2LQx16MISgJ0+z7dnmgvP9QtIleuETGOiOH1RcIw=="],
 
     "eslint/eslint-visitor-keys": ["eslint-visitor-keys@2.1.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/eslint-visitor-keys/-/eslint-visitor-keys-2.1.0.tgz", {}, "sha512-0rSmRBzXgDzIsD6mGdJgevzgezI534Cer5L/vyMX0kHzT/jiB43jRhd9YUlMGYLQy2zprNmoT8qasCGtY+QaKw=="],
 
@@ -3041,6 +3047,8 @@
 
     "finalhandler/debug": ["debug@2.6.9", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/debug/-/debug-2.6.9.tgz", { "dependencies": { "ms": "2.0.0" } }, "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="],
 
+    "fork-ts-checker-webpack-plugin/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "fork-ts-checker-webpack-plugin/chalk": ["chalk@2.4.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/chalk/-/chalk-2.4.2.tgz", { "dependencies": { "ansi-styles": "^3.2.1", "escape-string-regexp": "^1.0.5", "supports-color": "^5.3.0" } }, "sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ=="],
 
     "fork-ts-checker-webpack-plugin/micromatch": ["micromatch@3.1.10", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/micromatch/-/micromatch-3.1.10.tgz", { "dependencies": { "arr-diff": "^4.0.0", "array-unique": "^0.3.2", "braces": "^2.3.1", "define-property": "^2.0.2", "extend-shallow": "^3.0.2", "extglob": "^2.0.4", "fragment-cache": "^0.2.1", "kind-of": "^6.0.2", "nanomatch": "^1.2.9", "object.pick": "^1.3.0", "regex-not": "^1.0.0", "snapdragon": "^0.8.1", "to-regex": "^3.0.2" } }, "sha512-MWikgl9n9M3w+bpsY3He8L+w9eF9338xRl8IAO5viDizwSzziFEyUzo2xrrloB64ADbTf8uA8vRqqttDTOmccg=="],
@@ -3085,7 +3093,7 @@
 
     "jest-haste-map/jest-worker": ["jest-worker@26.6.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/jest-worker/-/jest-worker-26.6.2.tgz", { "dependencies": { "@types/node": "*", "merge-stream": "^2.0.0", "supports-color": "^7.0.0" } }, "sha512-KWYVV1c4i+jbMpaBC+U++4Va0cp8OisU185o73T1vo99hqi7w8tSJfUXYswwqqrjzwxa6KpRK54WhPvwf5w6PQ=="],
 
-    "jest-resolve/resolve": ["resolve@1.22.13", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/resolve/-/resolve-1.22.13.tgz", { "dependencies": { "es-errors": "^1.3.0", "is-core-module": "^2.17.0", "path-parse": "^1.0.7", "supports-preserve-symlinks-flag": "^1.0.0" }, "bin": { "resolve": "bin/resolve" } }, "sha512-Dj/cW9zBV2aRj6XzCxuGIs3ESZKv02jixne3q6jFZYZ3/Tg09gHHviSMDL4kObh9pqSahdRHEnDoaP2gn8YLhA=="],
+    "jest-message-util/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
 
     "jest-runner/jest-resolve": ["jest-resolve@26.6.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/jest-resolve/-/jest-resolve-26.6.2.tgz", { "dependencies": { "@jest/types": "^26.6.2", "chalk": "^4.0.0", "graceful-fs": "^4.2.4", "jest-pnp-resolver": "^1.2.2", "jest-util": "^26.6.2", "read-pkg-up": "^7.0.1", "resolve": "^1.18.1", "slash": "^3.0.0" } }, "sha512-sOxsZOq25mT1wRsfHcbtkInS+Ek7Q8jCHUB0ZUTP0tc/c41QHriU/NunqMfCUWsL4H3MHpvQD4QR9kSYhS7UvQ=="],
 
@@ -3099,6 +3107,8 @@
 
     "jest-snapshot/jest-resolve": ["jest-resolve@26.6.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/jest-resolve/-/jest-resolve-26.6.2.tgz", { "dependencies": { "@jest/types": "^26.6.2", "chalk": "^4.0.0", "graceful-fs": "^4.2.4", "jest-pnp-resolver": "^1.2.2", "jest-util": "^26.6.2", "read-pkg-up": "^7.0.1", "resolve": "^1.18.1", "slash": "^3.0.0" } }, "sha512-sOxsZOq25mT1wRsfHcbtkInS+Ek7Q8jCHUB0ZUTP0tc/c41QHriU/NunqMfCUWsL4H3MHpvQD4QR9kSYhS7UvQ=="],
 
+    "jest-snapshot/semver": ["semver@7.8.5", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-7.8.5.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-Y7/KDsb8LjooZpwaqGyulO6DQlksgCncchHGk+sZIY4SBvUocMBEFH5Ur1fI4dV+Jvl0w6cjvucaIi40puRioA=="],
+
     "jest-worker/supports-color": ["supports-color@8.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/supports-color/-/supports-color-8.1.1.tgz", { "dependencies": { "has-flag": "^4.0.0" } }, "sha512-MpUEN2OodtUzxvKQl72cUF7RQ5EiHsGvSsVG0ia9c5RbWGL2CI4C7EpPS8UTBIplnlzZiNuV56w+FuNxy3ty2Q=="],
 
     "js-yaml/esprima": ["esprima@4.0.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/esprima/-/esprima-4.0.1.tgz", { "bin": { "esparse": "./bin/esparse.js", "esvalidate": "./bin/esvalidate.js" } }, "sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A=="],
@@ -3110,8 +3120,6 @@
     "lower-case/tslib": ["tslib@2.8.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/tslib/-/tslib-2.8.1.tgz", {}, "sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w=="],
 
     "make-dir/semver": ["semver@5.7.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-5.7.2.tgz", { "bin": { "semver": "bin/semver" } }, "sha512-cBznnQ9KjJqU67B52RMC65CMarK2600WFnbkcaiwWq3xy/5haFJlshgnpjovMVJ+Hff49d8GEn0b87C5pDQ10g=="],
-
-    "md5.js/hash-base": ["hash-base@3.1.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/hash-base/-/hash-base-3.1.2.tgz", { "dependencies": { "inherits": "^2.0.4", "readable-stream": "^2.3.8", "safe-buffer": "^5.2.1", "to-buffer": "^1.2.1" } }, "sha512-Bb33KbowVTIj5s7Ked1OsqHUeCpz//tPwR+E2zJgJKo9Z5XolZ9b6bdUgjmYlwnWhoOQKoTd1TYToZGn5mAYOg=="],
 
     "md5.js/safe-buffer": ["safe-buffer@5.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/safe-buffer/-/safe-buffer-5.2.1.tgz", {}, "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="],
 
@@ -3145,6 +3153,8 @@
 
     "parse-asn1/safe-buffer": ["safe-buffer@5.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/safe-buffer/-/safe-buffer-5.2.1.tgz", {}, "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="],
 
+    "parse-json/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "pascal-case/tslib": ["tslib@2.8.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/tslib/-/tslib-2.8.1.tgz", {}, "sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w=="],
 
     "pbkdf2/safe-buffer": ["safe-buffer@5.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/safe-buffer/-/safe-buffer-5.2.1.tgz", {}, "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="],
@@ -3153,9 +3163,9 @@
 
     "pkg-up/find-up": ["find-up@3.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/find-up/-/find-up-3.0.0.tgz", { "dependencies": { "locate-path": "^3.0.0" } }, "sha512-1yD6RmLI1XBfxugvORwlck6f75tYL+iR0jqwsOrOxMZyGYqUuDhJ0l4AXdO1iX/FTs9cBAMEk1gWSEx1kSbylg=="],
 
-    "postcss/picocolors": ["picocolors@0.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-0.2.1.tgz", {}, "sha512-cMlDqaLEqfSaW8Z7N5Jw+lyIW869EzT73/F5lhtY9cLGoVxSXznfgfXMO0Z5K0o0Q2TkTXq+0KFsdnSe3jDViA=="],
-
     "postcss/source-map": ["source-map@0.6.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/source-map/-/source-map-0.6.1.tgz", {}, "sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g=="],
+
+    "postcss-colormin/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
 
     "postcss-colormin/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
 
@@ -3173,11 +3183,15 @@
 
     "postcss-merge-longhand/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
 
+    "postcss-merge-rules/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
+
     "postcss-merge-rules/postcss-selector-parser": ["postcss-selector-parser@3.1.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-selector-parser/-/postcss-selector-parser-3.1.2.tgz", { "dependencies": { "dot-prop": "^5.2.0", "indexes-of": "^1.0.1", "uniq": "^1.0.1" } }, "sha512-h7fJ/5uWuRVyOtkO45pnt1Ih40CEleeyCHzipqAZO2e5H20g25Y48uYnFUiShvY4rZWNJ/Bib/KVPmanaCtOhA=="],
 
     "postcss-minify-font-values/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
 
     "postcss-minify-gradients/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
+
+    "postcss-minify-params/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
 
     "postcss-minify-params/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
 
@@ -3193,6 +3207,8 @@
 
     "postcss-normalize-timing-functions/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
 
+    "postcss-normalize-unicode/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
+
     "postcss-normalize-unicode/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
 
     "postcss-normalize-url/is-absolute-url": ["is-absolute-url@2.1.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/is-absolute-url/-/is-absolute-url-2.1.0.tgz", {}, "sha512-vOx7VprsKyllwjSkLV79NIhpyLfr3jAp7VaTCMXOJHu4m0Ew1CZ2fcjASwmV1jI3BWuWHB013M48eyeldk9gYg=="],
@@ -3206,6 +3222,8 @@
     "postcss-ordered-values/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
 
     "postcss-pseudo-class-any-link/postcss-selector-parser": ["postcss-selector-parser@5.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-selector-parser/-/postcss-selector-parser-5.0.0.tgz", { "dependencies": { "cssesc": "^2.0.0", "indexes-of": "^1.0.1", "uniq": "^1.0.1" } }, "sha512-w+zLE5Jhg6Liz8+rQOWEAwtwkyqpfnmsinXjXg6cY7YIONZZtgvE0v2O0uhQBs0peNomOJwWRKt6JBfTdTd3OQ=="],
+
+    "postcss-reduce-initial/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
 
     "postcss-reduce-transforms/postcss-value-parser": ["postcss-value-parser@3.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz", {}, "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ=="],
 
@@ -3233,9 +3251,9 @@
 
     "react-dev-utils/@babel/code-frame": ["@babel/code-frame@7.10.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.10.4.tgz", { "dependencies": { "@babel/highlight": "^7.10.4" } }, "sha512-vG6SvB6oYEhvgisZNFRmRCUkLz11c7rp+tbNTynGqc6mS1d5ATd/sGyV6W0KZZnXRKMTzZDRgQT3Ou9jhpAfUg=="],
 
-    "react-dev-utils/browserslist": ["browserslist@4.14.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.14.2.tgz", { "dependencies": { "caniuse-lite": "^1.0.30001125", "electron-to-chromium": "^1.3.564", "escalade": "^3.0.2", "node-releases": "^1.1.61" }, "bin": { "browserslist": "cli.js" } }, "sha512-HI4lPveGKUR0x2StIz+2FXfDk9SfVMrxn6PLh1JeGUwcuoDkdKZebWiyLRJ68iIPDpMI4JLVDf7S7XzslgWOhw=="],
-
     "react-dev-utils/chalk": ["chalk@2.4.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/chalk/-/chalk-2.4.2.tgz", { "dependencies": { "ansi-styles": "^3.2.1", "escape-string-regexp": "^1.0.5", "supports-color": "^5.3.0" } }, "sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ=="],
+
+    "react-dev-utils/cross-spawn": ["cross-spawn@7.0.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/cross-spawn/-/cross-spawn-7.0.3.tgz", { "dependencies": { "path-key": "^3.1.0", "shebang-command": "^2.0.0", "which": "^2.0.1" } }, "sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w=="],
 
     "react-dev-utils/escape-string-regexp": ["escape-string-regexp@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz", {}, "sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w=="],
 
@@ -3267,6 +3285,8 @@
 
     "resolve-url-loader/camelcase": ["camelcase@5.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/camelcase/-/camelcase-5.3.1.tgz", {}, "sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg=="],
 
+    "resolve-url-loader/convert-source-map": ["convert-source-map@1.7.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-1.7.0.tgz", { "dependencies": { "safe-buffer": "~5.1.1" } }, "sha512-4FJkXzKXEDB1snCFZlLP4gpC3JILicCpGbzG9f9G7tGqGCzETQ2hWPrcinA9oU4wtf2biUaEH5065UnMeR33oA=="],
+
     "resolve-url-loader/loader-utils": ["loader-utils@1.4.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/loader-utils/-/loader-utils-1.4.2.tgz", { "dependencies": { "big.js": "^5.2.2", "emojis-list": "^3.0.0", "json5": "^1.0.1" } }, "sha512-I5d00Pd/jwMD2QCduo657+YM/6L3KZu++pmX9VFncxaxvHcru9jx1lBaFft+r4Mt2jK0Yhp41XlRAihzPxHNCg=="],
 
     "resolve-url-loader/postcss": ["postcss@7.0.36", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss/-/postcss-7.0.36.tgz", { "dependencies": { "chalk": "^2.4.2", "source-map": "^0.6.1", "supports-color": "^6.1.0" } }, "sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw=="],
@@ -3278,6 +3298,8 @@
     "ripemd160/hash-base": ["hash-base@3.1.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/hash-base/-/hash-base-3.1.2.tgz", { "dependencies": { "inherits": "^2.0.4", "readable-stream": "^2.3.8", "safe-buffer": "^5.2.1", "to-buffer": "^1.2.1" } }, "sha512-Bb33KbowVTIj5s7Ked1OsqHUeCpz//tPwR+E2zJgJKo9Z5XolZ9b6bdUgjmYlwnWhoOQKoTd1TYToZGn5mAYOg=="],
 
     "rollup/acorn": ["acorn@7.4.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/acorn/-/acorn-7.4.1.tgz", { "bin": { "acorn": "bin/acorn" } }, "sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A=="],
+
+    "rollup-plugin-terser/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
 
     "rollup-plugin-terser/jest-worker": ["jest-worker@24.9.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/jest-worker/-/jest-worker-24.9.0.tgz", { "dependencies": { "merge-stream": "^2.0.0", "supports-color": "^6.1.0" } }, "sha512-51PE4haMSXcHohnSMdM42anbvZANYTqMrr52tVKPqqsPJMzoP6FYYDVqahX/HrAoKEKz3uUPzSvKs9A3qR4iVw=="],
 
@@ -3339,6 +3361,8 @@
 
     "string_decoder/safe-buffer": ["safe-buffer@5.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/safe-buffer/-/safe-buffer-5.2.1.tgz", {}, "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="],
 
+    "stylehacks/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
+
     "stylehacks/postcss-selector-parser": ["postcss-selector-parser@3.1.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/postcss-selector-parser/-/postcss-selector-parser-3.1.2.tgz", { "dependencies": { "dot-prop": "^5.2.0", "indexes-of": "^1.0.1", "uniq": "^1.0.1" } }, "sha512-h7fJ/5uWuRVyOtkO45pnt1Ih40CEleeyCHzipqAZO2e5H20g25Y48uYnFUiShvY4rZWNJ/Bib/KVPmanaCtOhA=="],
 
     "supports-hyperlinks/has-flag": ["has-flag@4.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/has-flag/-/has-flag-4.0.0.tgz", {}, "sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ=="],
@@ -3387,6 +3411,10 @@
 
     "unset-value/has-value": ["has-value@0.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/has-value/-/has-value-0.3.1.tgz", { "dependencies": { "get-value": "^2.0.3", "has-values": "^0.1.4", "isobject": "^2.0.0" } }, "sha512-gpG936j8/MzaeID5Yif+577c17TxaDmhuyVgSwtnL/q8UUTySg8Mecb+8Cf1otgLoD7DDH75axp86ER7LFsf3Q=="],
 
+    "update-browserslist-db/browserslist": ["browserslist@4.29.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/browserslist/-/browserslist-4.29.4.tgz", { "dependencies": { "baseline-browser-mapping": "^2.11.29", "caniuse-lite": "^1.0.30001816", "electron-to-chromium": "^1.5.459", "node-releases": "^2.0.59", "update-browserslist-db": "^1.3.4" }, "bin": { "browserslist": "cli.js" } }, "sha512-2TcbbiwXEq+N0kD36tykpCfyyQigUXmuwNQbnPp4Xk4PX9JOqVIKjJlIDjpH7uY6tmRGoAd+apeT1p60T8wsdA=="],
+
+    "update-browserslist-db/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
     "uri-js/punycode": ["punycode@2.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/punycode/-/punycode-2.3.1.tgz", {}, "sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg=="],
 
     "url-loader/schema-utils": ["schema-utils@3.3.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/schema-utils/-/schema-utils-3.3.0.tgz", { "dependencies": { "@types/json-schema": "^7.0.8", "ajv": "^6.12.5", "ajv-keywords": "^3.5.2" } }, "sha512-pN/yOAvcC+5rQ5nERGuwrjLlYvLTbCibnZ1I7B1LaiAz9BRBlE9GMgE/eqV30P7aJQUf7Ddimy/RsbYO/GrVGg=="],
@@ -3406,8 +3434,6 @@
     "webpack/schema-utils": ["schema-utils@1.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/schema-utils/-/schema-utils-1.0.0.tgz", { "dependencies": { "ajv": "^6.1.0", "ajv-errors": "^1.0.0", "ajv-keywords": "^3.1.0" } }, "sha512-i27Mic4KovM/lnGsy8whRCHhc7VicJajAjTrYg11K9zfZXnYIt4k5F+kZkwjnrhKzLic/HLU4j11mjsz2G/75g=="],
 
     "webpack/terser-webpack-plugin": ["terser-webpack-plugin@1.4.6", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/terser-webpack-plugin/-/terser-webpack-plugin-1.4.6.tgz", { "dependencies": { "cacache": "^12.0.2", "find-cache-dir": "^2.1.0", "is-wsl": "^1.1.0", "schema-utils": "^1.0.0", "serialize-javascript": "^4.0.0", "source-map": "^0.6.1", "terser": "^4.1.2", "webpack-sources": "^1.4.0", "worker-farm": "^1.7.0" }, "peerDependencies": { "webpack": "^4.0.0" } }, "sha512-2lBVf/VMVIddjSn3GqbT90GvIJ/eYXJkt8cTzU7NbjKqK8fwv18Ftr4PlbF46b/e88743iZFL5Dtr/rC4hjIeA=="],
-
-    "webpack-dev-middleware/range-parser": ["range-parser@1.3.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/range-parser/-/range-parser-1.3.0.tgz", {}, "sha512-hek2mFQpPuI4E1BBKrSto+BU3e3x4xuarsbiwr3+lf7p44juvFMV0XFWQAP3xUyqXA4RrXLIoaSUGbSt056ZMw=="],
 
     "webpack-dev-server/import-local": ["import-local@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/import-local/-/import-local-2.0.0.tgz", { "dependencies": { "pkg-dir": "^3.0.0", "resolve-cwd": "^2.0.0" }, "bin": { "import-local-fixture": "fixtures/cli.js" } }, "sha512-b6s04m3O+s3CGSbqDIyP4R6aAwAeYlVq9+WUWep6iHa8ETRf9yei1U48C5MmfJmV9AiLYYBKPMq/W+/WRpQmCQ=="],
 
@@ -3447,6 +3473,8 @@
 
     "yargs-parser/camelcase": ["camelcase@5.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/camelcase/-/camelcase-5.3.1.tgz", {}, "sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg=="],
 
+    "@babel/helper-compilation-targets/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
+
     "@babel/helper-compilation-targets/lru-cache/yallist": ["yallist@3.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/yallist/-/yallist-3.1.1.tgz", {}, "sha512-a4UGQaWPH59mOXUYnAG2ewncQS4i4F43Tv3JoAM+s2VDAmS9NsK8GpDMLrCHPksFT7h3K6TOoUNn2pb7RoXx4g=="],
 
     "@babel/highlight/chalk/ansi-styles": ["ansi-styles@3.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ansi-styles/-/ansi-styles-3.2.1.tgz", { "dependencies": { "color-convert": "^1.9.0" } }, "sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA=="],
@@ -3455,9 +3483,15 @@
 
     "@babel/highlight/chalk/supports-color": ["supports-color@5.5.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/supports-color/-/supports-color-5.5.0.tgz", { "dependencies": { "has-flag": "^3.0.0" } }, "sha512-QjVjwdXIt408MIiAqCX4oUKsgU2EqAGzs2Ppkm4aQYbjm+ZEWEcW4SfFNTr4uMNZma0ey4f5lgLrkB0aX0QMow=="],
 
+    "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/@babel/core/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
     "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/@babel/core/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
+
+    "@babel/template/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
+    "@babel/traverse/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
 
     "@jest/core/jest-resolve/resolve": ["resolve@1.22.13", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/resolve/-/resolve-1.22.13.tgz", { "dependencies": { "es-errors": "^1.3.0", "is-core-module": "^2.17.0", "path-parse": "^1.0.7", "supports-preserve-symlinks-flag": "^1.0.0" }, "bin": { "resolve": "bin/resolve" } }, "sha512-Dj/cW9zBV2aRj6XzCxuGIs3ESZKv02jixne3q6jFZYZ3/Tg09gHHviSMDL4kObh9pqSahdRHEnDoaP2gn8YLhA=="],
 
@@ -3469,17 +3503,17 @@
 
     "@jest/reporters/jest-worker/supports-color": ["supports-color@7.2.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/supports-color/-/supports-color-7.2.0.tgz", { "dependencies": { "has-flag": "^4.0.0" } }, "sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw=="],
 
+    "@jest/transform/@babel/core/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "@jest/transform/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
     "@jest/transform/@babel/core/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
 
+    "@svgr/plugin-jsx/@babel/core/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "@svgr/plugin-jsx/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
     "@svgr/plugin-jsx/@babel/core/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
-
-    "@svgr/webpack/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
-
-    "@svgr/webpack/@babel/core/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
 
     "@typescript-eslint/experimental-utils/eslint-utils/eslint-visitor-keys": ["eslint-visitor-keys@2.1.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/eslint-visitor-keys/-/eslint-visitor-keys-2.1.0.tgz", {}, "sha512-0rSmRBzXgDzIsD6mGdJgevzgezI534Cer5L/vyMX0kHzT/jiB43jRhd9YUlMGYLQy2zprNmoT8qasCGtY+QaKw=="],
 
@@ -3487,11 +3521,15 @@
 
     "babel-loader/loader-utils/json5": ["json5@1.0.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/json5/-/json5-1.0.2.tgz", { "dependencies": { "minimist": "^1.2.0" }, "bin": { "json5": "lib/cli.js" } }, "sha512-g1MWMLBiz8FKi1e4w0UyVL3w+iJceWAFBAaBnnGKOpNa5f8TLktkbre1+s6oICydWAm+HRUGTmI+//xv2hvXYA=="],
 
+    "babel-preset-react-app/@babel/core/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "babel-preset-react-app/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
     "babel-preset-react-app/@babel/core/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
 
     "body-parser/debug/ms": ["ms@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ms/-/ms-2.0.0.tgz", {}, "sha512-Tpp60P6IUJDTuOq/5Z8cdskzJujfwqfOTkrwIwj7IRISpnkJnT6SyJ4PCPnGMoFjC9ddhal5KVIYtAt97ix05A=="],
+
+    "caniuse-api/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
 
     "chalk/supports-color/has-flag": ["has-flag@4.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/has-flag/-/has-flag-4.0.0.tgz", {}, "sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ=="],
 
@@ -3522,6 +3560,8 @@
     "color/color-convert/color-name": ["color-name@1.1.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/color-name/-/color-name-1.1.3.tgz", {}, "sha512-72fSenhMw2HZMTVHeCA9KCmpEIbzWiQsjN+BHcBbS9vr1mtt+vJjPdksIBNUmKAW8TFUDPJK5SUU3QhE9NEXDw=="],
 
     "compression/debug/ms": ["ms@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ms/-/ms-2.0.0.tgz", {}, "sha512-Tpp60P6IUJDTuOq/5Z8cdskzJujfwqfOTkrwIwj7IRISpnkJnT6SyJ4PCPnGMoFjC9ddhal5KVIYtAt97ix05A=="],
+
+    "core-js-compat/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
 
     "css-has-pseudo/postcss-selector-parser/cssesc": ["cssesc@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/cssesc/-/cssesc-2.0.0.tgz", { "bin": { "cssesc": "bin/cssesc" } }, "sha512-MsCAG1z9lPdoO/IUMLSBWBSVxVtJ1395VGIQ+Fc2gNdkQ1hNDnQdw3YhA71WJCBW1vdwA0cAnk/DnW6bqoEUYg=="],
 
@@ -3563,6 +3603,8 @@
 
     "finalhandler/debug/ms": ["ms@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ms/-/ms-2.0.0.tgz", {}, "sha512-Tpp60P6IUJDTuOq/5Z8cdskzJujfwqfOTkrwIwj7IRISpnkJnT6SyJ4PCPnGMoFjC9ddhal5KVIYtAt97ix05A=="],
 
+    "fork-ts-checker-webpack-plugin/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
     "fork-ts-checker-webpack-plugin/chalk/ansi-styles": ["ansi-styles@3.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ansi-styles/-/ansi-styles-3.2.1.tgz", { "dependencies": { "color-convert": "^1.9.0" } }, "sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA=="],
 
     "fork-ts-checker-webpack-plugin/chalk/escape-string-regexp": ["escape-string-regexp@1.0.5", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz", {}, "sha512-vbRorB5FUQWvla16U8R/qgaFIya2qGzwDrNmCZuYKrbdSUMG6I1ZCGQRefkRVhuOkIGVne7BQ35DSfo1qvJqFg=="],
@@ -3581,6 +3623,8 @@
 
     "http-proxy-middleware/micromatch/braces": ["braces@2.3.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/braces/-/braces-2.3.2.tgz", { "dependencies": { "arr-flatten": "^1.1.0", "array-unique": "^0.3.2", "extend-shallow": "^2.0.1", "fill-range": "^4.0.0", "isobject": "^3.0.1", "repeat-element": "^1.1.2", "snapdragon": "^0.8.1", "snapdragon-node": "^2.0.1", "split-string": "^3.0.2", "to-regex": "^3.0.1" } }, "sha512-aNdbnj9P8PjdXU4ybaWLK2IF3jc/EoDYbC7AazW6to3TRsfXxscC9UXOB5iDiEQrkyIbWp2SLQda4+QAa7nc3w=="],
 
+    "istanbul-lib-instrument/@babel/core/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "istanbul-lib-instrument/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
     "istanbul-lib-report/make-dir/semver": ["semver@7.8.5", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-7.8.5.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-Y7/KDsb8LjooZpwaqGyulO6DQlksgCncchHGk+sZIY4SBvUocMBEFH5Ur1fI4dV+Jvl0w6cjvucaIi40puRioA=="],
@@ -3591,6 +3635,8 @@
 
     "jest-cli/yargs/yargs-parser": ["yargs-parser@18.1.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/yargs-parser/-/yargs-parser-18.1.3.tgz", { "dependencies": { "camelcase": "^5.0.0", "decamelize": "^1.2.0" } }, "sha512-o50j0JeToy/4K6OZcaQmW6lyXXKhq7csREXcDwk2omFPJEwUNOVtJKvmDr9EI1fAJZUyZcRF7kxGBWmRXudrCQ=="],
 
+    "jest-config/@babel/core/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "jest-config/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
     "jest-config/@babel/core/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
@@ -3598,6 +3644,8 @@
     "jest-config/jest-resolve/resolve": ["resolve@1.22.13", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/resolve/-/resolve-1.22.13.tgz", { "dependencies": { "es-errors": "^1.3.0", "is-core-module": "^2.17.0", "path-parse": "^1.0.7", "supports-preserve-symlinks-flag": "^1.0.0" }, "bin": { "resolve": "bin/resolve" } }, "sha512-Dj/cW9zBV2aRj6XzCxuGIs3ESZKv02jixne3q6jFZYZ3/Tg09gHHviSMDL4kObh9pqSahdRHEnDoaP2gn8YLhA=="],
 
     "jest-haste-map/jest-worker/supports-color": ["supports-color@7.2.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/supports-color/-/supports-color-7.2.0.tgz", { "dependencies": { "has-flag": "^4.0.0" } }, "sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw=="],
+
+    "jest-message-util/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
 
     "jest-runner/jest-resolve/resolve": ["resolve@1.22.13", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/resolve/-/resolve-1.22.13.tgz", { "dependencies": { "es-errors": "^1.3.0", "is-core-module": "^2.17.0", "path-parse": "^1.0.7", "supports-preserve-symlinks-flag": "^1.0.0" }, "bin": { "resolve": "bin/resolve" } }, "sha512-Dj/cW9zBV2aRj6XzCxuGIs3ESZKv02jixne3q6jFZYZ3/Tg09gHHviSMDL4kObh9pqSahdRHEnDoaP2gn8YLhA=="],
 
@@ -3617,9 +3665,13 @@
 
     "object-copy/define-property/is-descriptor": ["is-descriptor@0.1.8", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/is-descriptor/-/is-descriptor-0.1.8.tgz", { "dependencies": { "is-accessor-descriptor": "^1.0.1", "is-data-descriptor": "^1.0.1" } }, "sha512-SceYGWXvdqlWa/OnQ5FQuV+NxvNmMRhMw/w9AHkH71hTzveND4BTYgvp16g+oITK47qbOl/3D0bl0iygehWAWQ=="],
 
+    "parse-json/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
     "pkg-dir/find-up/locate-path": ["locate-path@3.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/locate-path/-/locate-path-3.0.0.tgz", { "dependencies": { "p-locate": "^3.0.0", "path-exists": "^3.0.0" } }, "sha512-7AO748wWnIhNqAuaty2ZWHkQHRSNfPVIsPIfwEOWO22AmaoVrWavlOcMR5nzTLNYvp36X220/maaRsrec1G65A=="],
 
     "pkg-up/find-up/locate-path": ["locate-path@3.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/locate-path/-/locate-path-3.0.0.tgz", { "dependencies": { "p-locate": "^3.0.0", "path-exists": "^3.0.0" } }, "sha512-7AO748wWnIhNqAuaty2ZWHkQHRSNfPVIsPIfwEOWO22AmaoVrWavlOcMR5nzTLNYvp36X220/maaRsrec1G65A=="],
+
+    "postcss-colormin/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
 
     "postcss-custom-selectors/postcss-selector-parser/cssesc": ["cssesc@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/cssesc/-/cssesc-2.0.0.tgz", { "bin": { "cssesc": "bin/cssesc" } }, "sha512-MsCAG1z9lPdoO/IUMLSBWBSVxVtJ1395VGIQ+Fc2gNdkQ1hNDnQdw3YhA71WJCBW1vdwA0cAnk/DnW6bqoEUYg=="],
 
@@ -3631,9 +3683,17 @@
 
     "postcss-loader/loader-utils/json5": ["json5@1.0.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/json5/-/json5-1.0.2.tgz", { "dependencies": { "minimist": "^1.2.0" }, "bin": { "json5": "lib/cli.js" } }, "sha512-g1MWMLBiz8FKi1e4w0UyVL3w+iJceWAFBAaBnnGKOpNa5f8TLktkbre1+s6oICydWAm+HRUGTmI+//xv2hvXYA=="],
 
+    "postcss-merge-rules/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
+
+    "postcss-minify-params/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
+
+    "postcss-normalize-unicode/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
+
     "postcss-pseudo-class-any-link/postcss-selector-parser/cssesc": ["cssesc@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/cssesc/-/cssesc-2.0.0.tgz", { "bin": { "cssesc": "bin/cssesc" } }, "sha512-MsCAG1z9lPdoO/IUMLSBWBSVxVtJ1395VGIQ+Fc2gNdkQ1hNDnQdw3YhA71WJCBW1vdwA0cAnk/DnW6bqoEUYg=="],
 
-    "react-dev-utils/browserslist/node-releases": ["node-releases@1.1.77", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-1.1.77.tgz", {}, "sha512-rB1DUFUNAN4Gn9keO2K1efO35IDK7yKHCdCaIMvFO7yUYmmZYeDjnGKle26G4rwj+LKRQpjyUUvMkPglwGCYNQ=="],
+    "postcss-reduce-initial/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
+
+    "postcss-safe-parser/postcss/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
 
     "react-dev-utils/chalk/ansi-styles": ["ansi-styles@3.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ansi-styles/-/ansi-styles-3.2.1.tgz", { "dependencies": { "color-convert": "^1.9.0" } }, "sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA=="],
 
@@ -3656,6 +3716,8 @@
     "resolve-url-loader/postcss/chalk": ["chalk@2.4.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/chalk/-/chalk-2.4.2.tgz", { "dependencies": { "ansi-styles": "^3.2.1", "escape-string-regexp": "^1.0.5", "supports-color": "^5.3.0" } }, "sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ=="],
 
     "ripemd160/hash-base/safe-buffer": ["safe-buffer@5.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/safe-buffer/-/safe-buffer-5.2.1.tgz", {}, "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="],
+
+    "rollup-plugin-terser/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
 
     "rollup-plugin-terser/terser/commander": ["commander@2.20.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/commander/-/commander-2.20.3.tgz", {}, "sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ=="],
 
@@ -3689,6 +3751,8 @@
 
     "static-extend/define-property/is-descriptor": ["is-descriptor@0.1.8", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/is-descriptor/-/is-descriptor-0.1.8.tgz", { "dependencies": { "is-accessor-descriptor": "^1.0.1", "is-data-descriptor": "^1.0.1" } }, "sha512-SceYGWXvdqlWa/OnQ5FQuV+NxvNmMRhMw/w9AHkH71hTzveND4BTYgvp16g+oITK47qbOl/3D0bl0iygehWAWQ=="],
 
+    "stylehacks/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
+
     "svgo/chalk/ansi-styles": ["ansi-styles@3.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ansi-styles/-/ansi-styles-3.2.1.tgz", { "dependencies": { "color-convert": "^1.9.0" } }, "sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA=="],
 
     "svgo/chalk/escape-string-regexp": ["escape-string-regexp@1.0.5", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz", {}, "sha512-vbRorB5FUQWvla16U8R/qgaFIya2qGzwDrNmCZuYKrbdSUMG6I1ZCGQRefkRVhuOkIGVne7BQ35DSfo1qvJqFg=="],
@@ -3706,6 +3770,8 @@
     "unset-value/has-value/has-values": ["has-values@0.1.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/has-values/-/has-values-0.1.4.tgz", {}, "sha512-J8S0cEdWuQbqD9//tlZxiMuMNmxB8PlEwvYwuxsTmR1G5RXUePEX/SJn7aD0GMLieuZYSwNH0cQuJGwnYunXRQ=="],
 
     "unset-value/has-value/isobject": ["isobject@2.1.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/isobject/-/isobject-2.1.0.tgz", { "dependencies": { "isarray": "1.0.0" } }, "sha512-+OUdGJlgjOBZDfxnDjYYG6zp487z0JGNQq3cYQYg5f5hKR+syHMsaztzGeml/4kGG55CSpKSpWTY+jYGgsHLgA=="],
+
+    "update-browserslist-db/browserslist/node-releases": ["node-releases@2.0.60", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/node-releases/-/node-releases-2.0.60.tgz", {}, "sha512-OmO8+GM1JUZqXET720VrJCwkjUCXmCMQm0Z3UDDRbfNLHS4NEAvY60j5jiFv0tkKw2PNNlqOLhahVmwJIOLDIQ=="],
 
     "watchpack/chokidar/is-binary-path": ["is-binary-path@2.1.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/is-binary-path/-/is-binary-path-2.1.0.tgz", { "dependencies": { "binary-extensions": "^2.0.0" } }, "sha512-ZMERYes6pDydyuGidse7OsHxtbI7WVeUEozgR/g7rd0xUimYNlvZRE/K2MgZTjWy725IfelLeVcEM97mmtRGXw=="],
 
@@ -3735,6 +3801,8 @@
 
     "webpack/terser-webpack-plugin/terser": ["terser@4.8.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/terser/-/terser-4.8.1.tgz", { "dependencies": { "commander": "^2.20.0", "source-map": "~0.6.1", "source-map-support": "~0.5.12" }, "bin": { "terser": "bin/terser" } }, "sha512-4GnLC0x667eJG0ewJTa6z/yXrbLGv80D9Ru6HIpCQmO+Q4PfEtBFi0ObSckqwL6VyQv/7ENJieXHo2ANmdQwgw=="],
 
+    "workbox-build/@babel/core/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "workbox-build/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
     "workbox-build/@babel/core/semver": ["semver@6.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/semver/-/semver-6.3.1.tgz", { "bin": { "semver": "bin/semver.js" } }, "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="],
@@ -3761,9 +3829,19 @@
 
     "@babel/highlight/chalk/ansi-styles/color-convert": ["color-convert@1.9.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/color-convert/-/color-convert-1.9.3.tgz", { "dependencies": { "color-name": "1.1.3" } }, "sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg=="],
 
+    "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/@babel/core/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
+    "@jest/reporters/istanbul-lib-instrument/@babel/core/@babel/code-frame": ["@babel/code-frame@7.29.7", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/@babel/code-frame/-/code-frame-7.29.7.tgz", { "dependencies": { "@babel/helper-validator-identifier": "^7.29.7", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw=="],
+
     "@jest/reporters/istanbul-lib-instrument/@babel/core/convert-source-map": ["convert-source-map@2.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/convert-source-map/-/convert-source-map-2.0.0.tgz", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
     "@jest/reporters/jest-worker/supports-color/has-flag": ["has-flag@4.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/has-flag/-/has-flag-4.0.0.tgz", {}, "sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ=="],
+
+    "@jest/transform/@babel/core/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
+    "@svgr/plugin-jsx/@babel/core/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
+    "babel-preset-react-app/@babel/core/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
 
     "chokidar/braces/extend-shallow/is-extendable": ["is-extendable@0.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/is-extendable/-/is-extendable-0.1.1.tgz", {}, "sha512-5BMULNob1vgFX6EjQw5izWDxrecWK9AM72rugNr0TFldMOi0fj6Jk+zeKIt0xGj4cEfQIJth4w3OKWOJ4f+AFw=="],
 
@@ -3797,9 +3875,13 @@
 
     "http-proxy-middleware/micromatch/braces/fill-range": ["fill-range@4.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/fill-range/-/fill-range-4.0.0.tgz", { "dependencies": { "extend-shallow": "^2.0.1", "is-number": "^3.0.0", "repeat-string": "^1.6.1", "to-regex-range": "^2.1.0" } }, "sha512-VcpLTWqWDiTerugjj8e3+esbg+skS3M9e54UuR3iCeIDMXCLTsAH8hTSzDQU/X6/6t3eYkOKoZSef2PlU6U1XQ=="],
 
+    "istanbul-lib-instrument/@babel/core/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
     "jest-cli/yargs/cliui/wrap-ansi": ["wrap-ansi@6.2.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/wrap-ansi/-/wrap-ansi-6.2.0.tgz", { "dependencies": { "ansi-styles": "^4.0.0", "string-width": "^4.1.0", "strip-ansi": "^6.0.0" } }, "sha512-r6lPcBGxZXlIcymEu7InxDMhdW0KDxpLgoFLcguasxCaJ/SOIZwINatK9KY/tf+ZrlywOKU0UDj3ATXUBfxJXA=="],
 
     "jest-cli/yargs/yargs-parser/camelcase": ["camelcase@5.3.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/camelcase/-/camelcase-5.3.1.tgz", {}, "sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg=="],
+
+    "jest-config/@babel/core/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
 
     "jest-haste-map/jest-worker/supports-color/has-flag": ["has-flag@4.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/has-flag/-/has-flag-4.0.0.tgz", {}, "sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ=="],
 
@@ -3873,6 +3955,8 @@
 
     "webpack/terser-webpack-plugin/terser/commander": ["commander@2.20.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/commander/-/commander-2.20.3.tgz", {}, "sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ=="],
 
+    "workbox-build/@babel/core/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
+
     "wrap-ansi/ansi-styles/color-convert/color-name": ["color-name@1.1.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/color-name/-/color-name-1.1.3.tgz", {}, "sha512-72fSenhMw2HZMTVHeCA9KCmpEIbzWiQsjN+BHcBbS9vr1mtt+vJjPdksIBNUmKAW8TFUDPJK5SUU3QhE9NEXDw=="],
 
     "yargs/find-up/locate-path/p-locate": ["p-locate@3.0.0", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/p-locate/-/p-locate-3.0.0.tgz", { "dependencies": { "p-limit": "^2.0.0" } }, "sha512-x+12w/To+4GFfgJhBEpiDcLozRJGegY+Ei7/z0tSLkMmxGZNybVMSfWj9aJn8Z5Fc7dBUNJOOVgPv2H7IwulSQ=="],
@@ -3882,6 +3966,8 @@
     "yargs/string-width/strip-ansi/ansi-regex": ["ansi-regex@4.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/ansi-regex/-/ansi-regex-4.1.1.tgz", {}, "sha512-ILlv4k/3f6vfQ4OoP2AGvirOktlQ98ZEL1k9FaQjxa3L1abBgbuTDAdPOpvbGncC0BTVQrl+OM8xZGK6tWXt7g=="],
 
     "@babel/highlight/chalk/ansi-styles/color-convert/color-name": ["color-name@1.1.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/color-name/-/color-name-1.1.3.tgz", {}, "sha512-72fSenhMw2HZMTVHeCA9KCmpEIbzWiQsjN+BHcBbS9vr1mtt+vJjPdksIBNUmKAW8TFUDPJK5SUU3QhE9NEXDw=="],
+
+    "@jest/reporters/istanbul-lib-instrument/@babel/core/@babel/code-frame/picocolors": ["picocolors@1.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/picocolors/-/picocolors-1.1.1.tgz", {}, "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="],
 
     "coa/chalk/ansi-styles/color-convert/color-name": ["color-name@1.1.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/color-name/-/color-name-1.1.3.tgz", {}, "sha512-72fSenhMw2HZMTVHeCA9KCmpEIbzWiQsjN+BHcBbS9vr1mtt+vJjPdksIBNUmKAW8TFUDPJK5SUU3QhE9NEXDw=="],
 

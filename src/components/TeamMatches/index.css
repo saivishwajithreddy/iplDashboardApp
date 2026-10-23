@@ -1,0 +1,9 @@
+.team-matches-container { min-height: 100vh; padding: 24px; }
+.team-banner { width: 100%; max-width: 900px; display: block; margin: 0 auto; }
+.latest-heading { text-align: center; font-size: 22px; margin-top: 24px; }
+.pie-container { max-width: 500px; margin: 0 auto; }
+.recent-matches-list { list-style: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; }
+.back-button {
+  display: block; margin: 24px auto; padding: 10px 28px; font-size: 16px;
+  background-color: #3b82f6; color: #ffffff; border: none; border-radius: 8px; cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.latest-match-card {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;
+  max-width: 900px; margin: 0 auto; padding: 20px; background-color: #1e293b; border-radius: 10px;
+}
+.latest-team { font-size: 24px; font-weight: bold; }
+.latest-logo { width: 150px; margin: 12px; }
+.label { color: #94a3b8; margin-top: 10px; }

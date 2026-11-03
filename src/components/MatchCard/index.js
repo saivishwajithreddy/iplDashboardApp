@@ -2,18 +2,27 @@ import './index.css'
 
 const MatchCard = ({match}) => {
   const {competingTeam, competingTeamLogo, result, matchStatus} = match
-  const statusClass = matchStatus === 'Won' ? 'won' : 'lost'
+
+  const getStatusClass = () => {
+    if (matchStatus === 'Won') {
+      return 'won'
+    }
+    if (matchStatus === 'Lost') {
+      return 'lost'
+    }
+    return 'drawn'
+  }
 
   return (
-    <li className="match-card">
+    <li className='match-card'>
       <img
-        className="match-logo"
+        className='match-logo'
         src={competingTeamLogo}
         alt={`competing team ${competingTeam}`}
       />
-      <p className="match-team">{competingTeam}</p>
+      <p className='match-team'>{competingTeam}</p>
       <p>{result}</p>
-      <p className={`status ${statusClass}`}>{matchStatus}</p>
+      <p className={`status ${getStatusClass()}`}>{matchStatus}</p>
     </li>
   )
 }

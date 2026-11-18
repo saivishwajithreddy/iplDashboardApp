@@ -39,9 +39,6 @@ const TeamMatches = () => {
 
       try {
         const response = await fetch(`${teamMatchesApiUrl}${id}`)
-        if (!response.ok) {
-          throw new Error('Failed to fetch team matches')
-        }
         const data = await response.json()
 
         setTeamData({

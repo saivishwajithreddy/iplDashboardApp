@@ -27,7 +27,7 @@
       "evaluation_result": "INCORRECT",
       "title": "When the Team Matches Route is opened, an HTTP GET request should be made to the given teamMatchesApiUrl to get recent matches based on the team selected",
       "errorMessages": [
-        "TypeError: expect(...).toBeInTheDocument is not a function"
+        "Error: Unable to find an element with the text: CB Gaffaney, VK Sharma. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible."
       ]
     },
     {
@@ -142,11 +142,9 @@
     },
     {
       "test_case_id": "RJSCPEU9CC_TEST_29",
-      "evaluation_result": "INCORRECT",
+      "evaluation_result": "CORRECT",
       "title": "When the Team Matches Route is opened and back is clicked in the browser, then the page should be navigated to the Home Route",
-      "errorMessages": [
-        "\nExpected: \"/team-matches/KKR\"\nReceived: \"/\""
-      ]
+      "errorMessages": []
     },
     {
       "test_case_id": "RJSCPEU9CC_TEST_30",
@@ -174,11 +172,9 @@
     },
     {
       "test_case_id": "RJSCPEU9CC_TEST_33",
-      "evaluation_result": "INCORRECT",
+      "evaluation_result": "CORRECT",
       "title": "When the Team Matches Route is opened and back button is clicked, then the page should be navigated to the Home Route",
-      "errorMessages": [
-        "\nExpected: \"/\"\nReceived: \"/team-matches/KKR\""
-      ]
+      "errorMessages": []
     },
     {
       "test_case_id": "RJSCPEU9CC_TEST_1",
@@ -236,11 +232,9 @@
     },
     {
       "test_case_id": "RJSCPEU9CC_TEST_8",
-      "evaluation_result": "INCORRECT",
+      "evaluation_result": "CORRECT",
       "title": "When a team card is clicked in Home Route, then the page should be navigated to the Team Matches Route with \"/team-matches/:id\" in the URL",
-      "errorMessages": [
-        "\nExpected: \"/team-matches/KKR\"\nReceived: \"/\""
-      ]
+      "errorMessages": []
     },
     {
       "test_case_id": "RJSCPEU9CC_TEST_9",

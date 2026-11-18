@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react'
 import {useParams, useHistory} from 'react-router-dom'
 import Loader from 'react-loader-spinner'
-import {PieChart, Pie, Cell, Legend, ResponsiveContainer} from 'recharts'
+import {PieChart, Pie, Cell, Legend} from 'recharts'
 import LatestMatch from '../LatestMatch'
 import MatchCard from '../MatchCard'
 import './index.css'
@@ -39,11 +39,9 @@ const TeamMatches = () => {
 
       try {
         const response = await fetch(`${teamMatchesApiUrl}${id}`)
-
         if (!response.ok) {
           throw new Error('Failed to fetch team matches')
         }
-
         const data = await response.json()
 
         setTeamData({
@@ -62,12 +60,7 @@ const TeamMatches = () => {
   }, [id])
 
   const getPieData = () => {
-    if (!teamData) {
-      return []
-    }
-
     const allMatches = [teamData.latestMatch, ...teamData.recentMatches]
-
     const count = status =>
       allMatches.filter(match => match.matchStatus === status).length
 
@@ -82,43 +75,36 @@ const TeamMatches = () => {
 
   const renderContent = () => {
     const {teamBannerUrl, latestMatch, recentMatches} = teamData
-
     const pieData = getPieData()
 
     return (
       <>
         <img className='team-banner' src={teamBannerUrl} alt='team banner' />
-
         <h1 className='latest-heading'>Latest Matches</h1>
-
         <LatestMatch match={latestMatch} />
 
         <h1 className='latest-heading'>Match Statistics</h1>
-
         <div className='pie-container'>
-          <ResponsiveContainer width='100%' height={300}>
-            <PieChart>
-              <Pie
-                cx='50%'
-                cy='50%'
-                data={pieData}
-                dataKey='value'
-                innerRadius='40%'
-                outerRadius='70%'
-              >
-                {pieData.map((entry, index) => (
-                  <Cell key={entry.name} fill={COLORS[index]} />
-                ))}
-              </Pie>
-
-              <Legend
-                iconType='circle'
-                layout='horizontal'
-                verticalAlign='bottom'
-                align='center'
-              />
-            </PieChart>
-          </ResponsiveContainer>
+          <PieChart width={320} height={300}>
+            <Pie
+              cx='50%'
+              cy='50%'
+              data={pieData}
+              dataKey='value'
+              innerRadius='40%'
+              outerRadius='70%'
+            >
+              {pieData.map((entry, index) => (
+                <Cell key={entry.name} fill={COLORS[index]} />
+              ))}
+            </Pie>
+            <Legend
+              iconType='circle'
+              layout='horizontal'
+              verticalAlign='bottom'
+              align='center'
+            />
+          </PieChart>
         </div>
 
         <ul className='recent-matches-list'>
